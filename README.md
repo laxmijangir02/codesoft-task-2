@@ -7,7 +7,7 @@ a simple calculator that performs basic arithmetic operations (addition, subtrac
 4. Based on the user's choice, it performs the corresponding operation and prints the result.
 5. If the user chooses division, it checks if the second number is zero and avoids a division by zero error.
 
-## This simple calculator handles basic operations and ensures user input is validated correctly. You can further enhance it by adding more operations, error handling, or even creating a GUI.
+### This simple calculator handles basic operations and ensures user input is validated correctly. You can further enhance it by adding more operations, error handling, or even creating a GUI.
 
 
 
